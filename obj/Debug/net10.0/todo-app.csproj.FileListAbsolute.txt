@@ -1,0 +1,14 @@
+C:\Users\beyza\dev\github\todo-app\bin\Debug\net10.0\todo-app.exe
+C:\Users\beyza\dev\github\todo-app\bin\Debug\net10.0\todo-app.deps.json
+C:\Users\beyza\dev\github\todo-app\bin\Debug\net10.0\todo-app.runtimeconfig.json
+C:\Users\beyza\dev\github\todo-app\bin\Debug\net10.0\todo-app.dll
+C:\Users\beyza\dev\github\todo-app\bin\Debug\net10.0\todo-app.pdb
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\todo-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\todo-app.AssemblyInfoInputs.cache
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\todo-app.AssemblyInfo.cs
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\todo-app.csproj.CoreCompileInputs.cache
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\todo-app.dll
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\refint\todo-app.dll
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\todo-app.pdb
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\todo-app.genruntimeconfig.cache
+C:\Users\beyza\dev\github\todo-app\obj\Debug\net10.0\ref\todo-app.dll
